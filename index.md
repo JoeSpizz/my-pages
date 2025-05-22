@@ -1,9 +1,12 @@
 ---
+layout: default
 title: Home
 ---
+# Welcome to My GitHub Pages Site
+
 ![Banner](https://via.placeholder.com/1000x200.png?text=My+Pages+Site)
 
-# Welcome to My GitHub Pages Site ![Pages](https://img.shields.io/badge/GitHub-Pages-blue)
+![Pages](https://img.shields.io/badge/GitHub-Pages-blue)
 
 > 🚀 **Quickstart:** Clone, edit Markdown, push, and your site updates instantly.
 
