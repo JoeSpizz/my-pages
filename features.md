@@ -2,7 +2,7 @@
 layout: default
 title: Features
 ---
-# 🚩 Features
+# 🚩   Featuring!
 
 | Feature               | Description                                   |
 |-----------------------|-----------------------------------------------|
